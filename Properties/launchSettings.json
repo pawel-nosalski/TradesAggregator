@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TradesAggregator.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\temp\\Engineer Code Test\""
+    }
+  }
+}
